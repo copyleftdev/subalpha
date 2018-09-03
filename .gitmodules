@@ -1,0 +1,9 @@
+[submodule "suba"]
+	path = suba
+	url = https://github.com/copyleftdev/suba.git
+[submodule "subb"]
+	path = subb
+	url = https://github.com/copyleftdev/subb.git
+[submodule "subc"]
+	path = subc
+	url = https://github.com/copyleftdev/subc.git
